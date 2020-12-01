@@ -1,4 +1,4 @@
-# This project is part of freeCodeCamp Node.js and Express.js Basics Certification Projects
+# This project is part of freeCodeCamp Full Stack (Node.js and Express.js) Basics Certification Projects
 # npm packages, basic Node, basic Express, MongoDB, and Mongoose.
 
 # APIs and Microservices Projects - URL Shortener Microservice
