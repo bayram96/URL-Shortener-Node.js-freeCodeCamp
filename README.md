@@ -1,3 +1,6 @@
+# This project is part of freeCodeCamp Node.js and Express.js Basics Certification Projects
+# npm packages, basic Node, basic Express, MongoDB, and Mongoose.
+
 # APIs and Microservices Projects - URL Shortener Microservice
 
 Build a full stack JavaScript app that is functionally similar to this: https://url-shortener-microservice.freecodecamp.rocks/. Working on this project will involve you writing your code using one of the following methods:
